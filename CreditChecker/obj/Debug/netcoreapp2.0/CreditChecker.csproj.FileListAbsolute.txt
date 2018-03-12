@@ -1,0 +1,11 @@
+C:\Source\CreditChecker\CreditChecker\bin\Debug\netcoreapp2.0\CreditChecker.deps.json
+C:\Source\CreditChecker\CreditChecker\bin\Debug\netcoreapp2.0\CreditChecker.runtimeconfig.json
+C:\Source\CreditChecker\CreditChecker\bin\Debug\netcoreapp2.0\CreditChecker.runtimeconfig.dev.json
+C:\Source\CreditChecker\CreditChecker\bin\Debug\netcoreapp2.0\CreditChecker.dll
+C:\Source\CreditChecker\CreditChecker\bin\Debug\netcoreapp2.0\CreditChecker.pdb
+C:\Source\CreditChecker\CreditChecker\obj\Debug\netcoreapp2.0\CreditChecker.csprojResolveAssemblyReference.cache
+C:\Source\CreditChecker\CreditChecker\obj\Debug\netcoreapp2.0\CreditChecker.csproj.CoreCompileInputs.cache
+C:\Source\CreditChecker\CreditChecker\obj\Debug\netcoreapp2.0\CreditChecker.AssemblyInfoInputs.cache
+C:\Source\CreditChecker\CreditChecker\obj\Debug\netcoreapp2.0\CreditChecker.AssemblyInfo.cs
+C:\Source\CreditChecker\CreditChecker\obj\Debug\netcoreapp2.0\CreditChecker.dll
+C:\Source\CreditChecker\CreditChecker\obj\Debug\netcoreapp2.0\CreditChecker.pdb
